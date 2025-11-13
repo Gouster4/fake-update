@@ -1,6 +1,6 @@
-id=vendor-prop
-name=Vendor prop updater
-version=v2
+id=fake-update
+name=Fake Vendor and System update
+version=v1
 versionCode=1
 author=gouster4
-description=Sync vendor patch prop date with system patch date
+description=Sync vendor and system patch prop date with current date

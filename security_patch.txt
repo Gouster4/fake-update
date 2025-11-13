@@ -1,5 +1,5 @@
 # do not hack os security patch level
-system=no
+system=prop
 # do not hack boot patch level
 boot=no
 # keep vendor patch consistent with prop
